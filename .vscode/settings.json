@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".gitignore": true,
+    ".prettierrc.js": true,
+    "yarn.lock": true,
+  }
+}
